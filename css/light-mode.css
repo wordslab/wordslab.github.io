@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	background-color: #fffafa;
+	color: #202020;
+	font-family: 'Courier New';
+	font-size: 20px;
+	transition: 0.3s;
+}
+
+.header {
+	overflow: hidden;
+	background-color: #bdbaba;
+	padding: 10px 10px;
+	transition: 0.3s;
+}
+
+.header button {
+	background-color: #bdbaba;
+	color: #202020;
+	border: none;
+	outline: none;
+	transition: 0.3s;
+	font-size: 20px;
+	text-align: center;
+}
+
+.menubtn {
+	float: right;
+}
+
+.intro {
+	padding-top: 50px;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 22px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.mainname {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+
+.social {
+    text-align: center;
+    padding: 35px 20px;
+}
+
+.social span {
+    padding: 30px;
+}
+
+.social a {
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s;
+    background-color: #fffafa;
+    color: #202020;
+}
